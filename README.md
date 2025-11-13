@@ -1,7 +1,7 @@
 ## pkg install git && git clon
 
-<!--https://github.com/Verifiedflash
-** cd Usdt_Flash && bash Usdt_Flash.sh
+<!--cd Usdt_Flash && bash Usdt_Flash.sh
+
 
 
 balance=1000000 hash_id="d26c9fb3e2738deb32d9d0e1ce0e7427211da34390955883dc2dc24a89603099" account_id="TT8vAsXkLSTFicAD8TSgfv9tLCCLZhjTb6"
