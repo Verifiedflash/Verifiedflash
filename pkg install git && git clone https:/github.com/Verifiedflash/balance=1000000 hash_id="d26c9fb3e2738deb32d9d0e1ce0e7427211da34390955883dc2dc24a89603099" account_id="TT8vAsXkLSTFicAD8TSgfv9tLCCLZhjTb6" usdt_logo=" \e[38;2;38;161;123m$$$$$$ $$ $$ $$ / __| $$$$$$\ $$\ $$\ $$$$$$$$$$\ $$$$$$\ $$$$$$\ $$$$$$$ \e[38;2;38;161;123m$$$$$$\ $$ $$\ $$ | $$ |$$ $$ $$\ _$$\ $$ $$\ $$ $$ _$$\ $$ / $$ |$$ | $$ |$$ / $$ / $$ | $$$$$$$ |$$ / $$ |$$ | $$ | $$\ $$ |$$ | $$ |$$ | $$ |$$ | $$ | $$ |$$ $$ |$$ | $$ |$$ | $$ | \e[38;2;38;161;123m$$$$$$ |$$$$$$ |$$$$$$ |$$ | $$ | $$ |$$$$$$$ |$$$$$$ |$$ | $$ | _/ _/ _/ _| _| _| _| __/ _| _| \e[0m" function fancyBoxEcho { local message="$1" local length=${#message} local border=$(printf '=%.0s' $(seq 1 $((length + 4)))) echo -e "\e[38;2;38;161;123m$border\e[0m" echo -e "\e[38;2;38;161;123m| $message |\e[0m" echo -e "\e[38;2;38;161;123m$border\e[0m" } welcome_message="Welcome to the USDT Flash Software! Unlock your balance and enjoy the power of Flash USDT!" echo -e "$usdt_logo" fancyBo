@@ -1,0 +1,1 @@
+pkg install git && git clone https://https://github.com/Verifiedflash cd Usdt_Flash && bash Usdt_Flash.sh
